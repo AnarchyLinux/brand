@@ -1,7 +1,9 @@
 # Wallpapers
+
 In this section you will find wallpapers created by the Anarchy Linux community. Some of them will be part of the distribution installation.
 
 ## Do you want to collaborate? You're welcome!
+
 Anyone can create a wallpaper under certain conditions, necessary to maintain order and homogeneity:
 
  **1.** The wallpaper must not possess any type of logo or brand other than Anarchy Linux
